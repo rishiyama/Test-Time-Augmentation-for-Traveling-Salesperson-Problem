@@ -1,0 +1,25 @@
+*results*
+analysis
+data*
+LKH*
+log*
+checkpoint*
+tmp*
+
+# libraries
+pyconcorde
+
+# models old version
+models/tsp_transformer_matrix*
+models/tsp_transformer_pe*
+
+models_test/tsp_transformer_matrix*
+models_test/tsp_transformer_pe*
+
+# vizualization stuff
+models_test_ft
+*.ipynb
+
+# specific code for experiments
+test_dataset_tta_*
+test_dataset_tsp50*
